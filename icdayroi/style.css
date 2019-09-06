@@ -1,0 +1,38 @@
+.title{
+	float:left;
+}
+.twitter{
+	float: right;
+	width: 40px;
+}
+.facebook{
+	float: right;
+	width: 40px;
+}
+.google{
+	float: right;
+	width: 40px;
+}
+.logo{
+	clear: both;
+
+}
+.middle-search{
+	float: right;
+	margin-right: 400px;
+}
+.cart{
+	float: right;
+	margin-right: 40px;
+}
+.account-icon{
+float: right;
+margin-right: 20px;
+}
+.cart-icon{
+	float: right;
+}
+.btn{
+	background: blue;
+	color: white;
+}
